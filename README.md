@@ -6,7 +6,7 @@
 * To analyse Duration, Intensity and Frequency of Heatwaves
 
 ## Team members:
-* Viraj Hirpara : www.github.com/Viraj-Patel07
+* : Smit Bhuva :www.github.com/Smit-Bhuva/
 
 ## Data:
 1. Study area : Gujarat, India
